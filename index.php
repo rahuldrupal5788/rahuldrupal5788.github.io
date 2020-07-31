@@ -1,9 +1,10 @@
 <!-- <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-e53d876e-e277-4f80-8f9c-d4c2e630eb29"></div> -->
+<?php include('functions.php') ?>
 <!DOCTYPE html>
 <html>
   <head>
-    <title></title>
+    <title>Gupshup what's api integration</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">  
     <link rel="stylesheet" type="text/css" href="css/style.css">  
@@ -15,7 +16,7 @@
     <div class="bgimg">
       <!-- <div class="topleft"><p>Logo</p></div> -->
       <div class="middle">
-        <h1>Integration Gupshup What's up API</h1>
+        <h1>Gupshup What's up API Interation</h1>
         <!-- <hr>
         <p>35 days left</p> -->
       </div>
@@ -23,7 +24,6 @@
     </div>
   </body>
 </html>
-
 
 <!-- This is Gupshup what's up api script -->
 <script async src='https://www.buildquickbots.com/gsui/js/embedScript/gs_wa_widget.js' data-appid='5dd529a0-2706-4f6a-9c04-2abb48457134' data-appname='VelocisDemoAccessAPI' data-source='WEB' data-env='PROD' data-lang='en_US'></script>
